@@ -17,6 +17,7 @@ public class tip{
 		  		System.out.println("The total amount:"+ Bill+0.15*Bill);
 		  	}
 		  	service.close();
+		  	System.out.println("thanks for your support");
 	}
 
 }
